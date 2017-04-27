@@ -5,6 +5,7 @@ Some powerfull JFields for Joomla 3.x in order to add interesting functionalitie
  ## JField HEC File Explorer 
 This JField is a file explorer like. It display content of you website and allow you to navigate.
 Features are :
+
 ..*Display content of directory like windows explorer
 ..*Navigate in directory structure
 ..*Download files
