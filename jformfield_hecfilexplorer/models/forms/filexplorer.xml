@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+
+              <field name="documents" type="filexplorer" 
+					default="/images/"  
+					label="Mes documents"
+					description="Parcourir mes documents" 
+					mode="file" 
+					filter="xls|xlsx|jpg|pdf|png|doc|docx" 
+					exclude="powered_by.png"/> 
+        
+ 
+	</fieldset> 
+</form>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <layout title="FILXPLORER" option="View">
+        <message>
+                        <![CDATA[COM_FIELDTEST_TITLE_FORM_VIEW_TABLE_DESC]]>
+        </message>
+    </layout>
+    
+</metadata>
