@@ -2,7 +2,7 @@
 Some powerfull JFields for Joomla 3.x in order to add interesting functionalities to your component
 
 
- ## JField HEC fileexplorer 
+ ## JField HEC File Explorer 
 This JField is a file explorer like. It display content of you website and allow you to navigate.
 Features are :
 ..*Display content of directory like windows explorer
@@ -23,7 +23,7 @@ This JField allow you to add an attachment feature :
 
 _Folder_ : jformfield_hecattachments
 
-## JField HEC datatable 
+## JField HEC Datatable 
 This JField encapsulate JQuery datatables javascript library [JQuery datatables website](https://datatables.net/)
 
 _Folder_ : jformfield_hecdatatable
